@@ -18,7 +18,12 @@ namespace Exercise4
     }
     class Stack
     {
-       
+        node top;
+        public Stack()
+        {
+            top = null;
+        }
+        
 
     }
 }
