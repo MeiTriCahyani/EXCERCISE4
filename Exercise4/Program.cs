@@ -16,6 +16,10 @@ namespace Exercise4
             next = n;
         }
     }
-    
+    class Stack
+    {
+       
+
+    }
 }
 
